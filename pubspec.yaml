@@ -47,6 +47,7 @@ dev_dependencies:
   flutter_rating_bar: ^4.0.0
   smooth_star_rating: 1.1.1
   shimmer_image: ^0.0.1
+  search_widget: 1.0.2
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

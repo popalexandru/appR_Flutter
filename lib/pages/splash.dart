@@ -45,7 +45,7 @@ class _Loading extends State<Loading> {
     return Scaffold(
       backgroundColor: Colors.grey[900],
       body: const Center(
-        child: SpinKitSpinningLines(
+        child: SpinKitPianoWave(
           color: Colors.white,
         ),
       )
